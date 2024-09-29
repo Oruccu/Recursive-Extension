@@ -1,0 +1,14 @@
+/Users/aysenuroruccu/Desktop/Recursive Extension/bin/Debug/net8.0/Recursive Extension
+/Users/aysenuroruccu/Desktop/Recursive Extension/bin/Debug/net8.0/Recursive Extension.deps.json
+/Users/aysenuroruccu/Desktop/Recursive Extension/bin/Debug/net8.0/Recursive Extension.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Recursive Extension/bin/Debug/net8.0/Recursive Extension.dll
+/Users/aysenuroruccu/Desktop/Recursive Extension/bin/Debug/net8.0/Recursive Extension.pdb
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.dll
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/refint/Recursive Extension.dll
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.pdb
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/Recursive Extension.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Recursive Extension/obj/Debug/net8.0/ref/Recursive Extension.dll
